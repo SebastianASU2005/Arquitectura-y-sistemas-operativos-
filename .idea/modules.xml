@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Arquitectura-y-sistemas-operativos-.iml" filepath="$PROJECT_DIR$/.idea/Arquitectura-y-sistemas-operativos-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioSincronizadoComplementario/EjercicioSincronizadoComplementario.iml" filepath="$PROJECT_DIR$/EjercicioSincronizadoComplementario/EjercicioSincronizadoComplementario.iml" />
       <module fileurl="file://$PROJECT_DIR$/Filosofos/Filosofos.iml" filepath="$PROJECT_DIR$/Filosofos/Filosofos.iml" />
     </modules>
   </component>
